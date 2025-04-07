@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm a passionate Business Intelligence Analyst dedicated to transforming raw data into actionable insights that drive strategic business decisions. With strong analytical skills and hands-on experience in data visualization, SQL querying, and reporting, I thrive at uncovering patterns and trends that positively impact organizational performance.
+
+Currently sharpening my technical skill set through an intensive Business Intelligence Analytics Bootcamp, I'm skilled in creating intuitive dashboards, writing efficient SQL queries, and translating complex data into clear, concise presentations tailored for diverse stakeholders.
+
+When I'm not crunching numbers, you can find me staying active with soccer and fitness or exploring new technologies and games.
+
+I'm always eager to learn, collaborate, and leverage data-driven storytelling to empower informed decisions.
 
 <!--
 **Alan-Gonzalez-Ruano/Alan-Gonzalez-Ruano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
